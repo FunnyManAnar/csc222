@@ -12,7 +12,7 @@ void countdown(int n) {
 
 int main()
 {
-    countdown(-3);
+    countdown(-4);
     return 0;
 }
 
